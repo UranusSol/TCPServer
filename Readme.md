@@ -1,3 +1,3 @@
 Readme.md
 
-Simple TCP server-Client
+Simple TCP Server-Client
